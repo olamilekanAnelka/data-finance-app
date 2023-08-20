@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9681b50d.css",
+    "main.js": "/static/js/main.f343fff6.js",
+    "static/media/care_boafgb.png": "/static/media/care_boafgb.cd43bd8da720b1145b22.png",
+    "index.html": "/index.html",
+    "main.9681b50d.css.map": "/static/css/main.9681b50d.css.map",
+    "main.f343fff6.js.map": "/static/js/main.f343fff6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9681b50d.css",
+    "static/js/main.f343fff6.js"
+  ]
+}
